@@ -1,0 +1,29 @@
+**Hypothesis / Assumptions**
+
+    1. Use open software for image processing
+    2. it´s efficient and compact
+    3. Drone equipped with a calibrated thermographic camera
+    4. Quality of measurements
+    5. Automated defect detection
+    6. Fast and safe evaluation of the inspected area
+
+The next test card is used to validate ideas and hypothesis.
+
+**Test Card**
+
+    1. We can believe that:
+
+The use of drones equipped with a thermal camera for
+Photovoltaic inspection allows to obtain thermographic images to detect defects efficiently, quickly and safely.
+
+    2. To verify that, we will:
+
+We will use a drone equipped with a calibrated thermal camera to perform a quick and safe evaluation of the inspected area.
+
+    3. And measure:
+
+The temperature of hot spots and areas due to connection problems, physical damage or debris.
+
+    4. We are right if:
+
+With the use the drone we can obtain thermographic images that clearly show us if some parts of the photovoltaic modules are hotter than others in an efficient, fast and safe way.
