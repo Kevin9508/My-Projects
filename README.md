@@ -6,7 +6,6 @@ La termografía con drones en instalaciones fotovoltaicas, nos permite detectar 
 
 **Las condiciones ambientales y de medición.**
 
-
 Las condiciones de radiación solar óptimas para la realización de inspecciones termográficas con drones en centrales fotovoltaicas se obtienen con valores superiores a los 750W/m2.
 
 Cuanto menor sea la temperatura del aire, mayor será el posible contraste térmico y es preferible que no haya viento, ya que las corrientes de aire circulando sobre la superficie del panel fotovoltaico producirá un enfriamiento por convección y el gradiente térmico se reducirá.
