@@ -18,3 +18,17 @@ Los errores de medición son causados principalmente por un mal posicionamiento 
     Cambios en la radiación solar mientras se realiza la medida.
     Reflejos infrarrojos.
     Sombreados parciales.
+**Análisis de las imágenes termográficas.**
+
+Con la realización de inspecciones termográficas mediante drones en instalaciones fotovoltaicas obtenemos imágenes termográficas que nos muestran con claridad si algunas partes de los módulos fotovoltaicos están más calientes que otras. Según la forma y la ubicación en el módulo, los puntos y las áreas calientes nos indican que pueden existir elementos que impiden el funcionamiento correcto de la instalación o defectos en los módulos o las células. En el primer caso el sobrecalentamiento desaparecerá cuando desaparezca el elemento que perturba el normal funcionamiento (excrementos de ave, sombras parciales, etc) y en el segundo caso tendremos que averiguar cuál es el defecto existente que está causando (o puede causar) la anomalía de funcionamiento de la instalación. Los defectos más habituales son:
+
+    Grietas en las células.
+    Soldaduras defectuosas
+    Problemas de interconexión
+    Defectos en los diodos de bypass
+    
+Para un adecuado análisis de las posibles averías o defectos, tendremos que comparar las imágenes termográficas obtenidas mediante la utilización de drones para inspecciones fotovoltaicas con las obtenidas a pie de obra en diferentes condiciones de funcionamiento (con y sin carga y en cortocircuito) así como desde diferentes puntos (parte frontal y parte posterior).
+
+**Conclusiones**
+
+La inspección termográfica con drones de los sistemas fotovoltaicos permite localizar rápidamente los posibles errores en las células o módulos fotovoltaicos, además de detectar posibles problemas de interconexión eléctrica. Las inspecciones fotovoltaicas con drones permiten obtener imágenes termográficas para la detección de avería de forma eficiente, rápida y segura.
